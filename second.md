@@ -20,10 +20,10 @@ You should use git commands in this sequence.
 4. git commit -m "example commit"-> We save our changing
 5. git push -u origin master     -> Finally,push all files in ourrepository
 
-Authentication : When we open the browser, each site has unique cookie for all information about this site keep in this cookie. In this way, even if we don't open a site, these cookies recognize us. 
+- **Authentication** : When we open the browser, each site has unique cookie for all information about this site keep in this cookie. In this way, even if we don't open a site, these cookies recognize us. 
 Every site has "sessionID:object" pair. Actually, each item has a key and a value pair like a dictionary. We can access the objects of this site with this id.
 
-Servlet : Web server applications. Basically servlets are usually used to implement web applications. Servlets are Java classes based on the results from the web server requests.
+- **Servlet** : Web server applications. Basically servlets are usually used to implement web applications. Servlets are Java classes based on the results from the web server requests.
 User (get some request from the server) -> Server (decides which servlet is responsible for this request) -> Servlet (produces a final file) -> Result (send to the final server)-> Server -> User 
 
 ###Get/Post Methods ###

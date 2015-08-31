@@ -28,5 +28,5 @@ User (get some request from the server) -> Server (decides which servlet is resp
 
 ###Get/Post Methods ###
 
-**Get**  : Requests data from a specified resource
-**Post** : Submits data to be processed to a specified resource
+- **Get**  : Requests data from a specified resource
+- **Post** : Submits data to be processed to a specified resource
