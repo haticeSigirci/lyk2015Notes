@@ -14,11 +14,11 @@ Generics enable types (classes and interfaces) can be used for several reasons s
 We go to the our directory and then make the gitignore which include our name of the files.
 You should use git commands in this sequence.
 
-1) git init 			 -> We use when we first opened git repository
-2) git status			 -> We can control to the changing files
-3) git add . or git add --all    -> We add changing files in git repository
-4) git commit -m "example commit"-> We save our changing
-5) git push -u origin master     -> Finally,push all files in ourrepository
+1. git init 			 -> We use when we first opened git repository
+2. git status			 -> We can control to the changing files
+3. git add . or git add --all    -> We add changing files in git repository
+4. git commit -m "example commit"-> We save our changing
+5. git push -u origin master     -> Finally,push all files in ourrepository
 
 Authentication : When we open the browser, each site has unique cookie for all information about this site keep in this cookie. In this way, even if we don't open a site, these cookies recognize us. 
 Every site has "sessionID:object" pair. Actually, each item has a key and a value pair like a dictionary. We can access the objects of this site with this id.
@@ -28,5 +28,5 @@ User (get some request from the server) -> Server (decides which servlet is resp
 
 ###Get/Post Methods ###
 
-Get  : Requests data from a specified resource
-Post : Submits data to be processed to a specified resource
+- **Get**  : Requests data from a specified resource
+- **Post** : Submits data to be processed to a specified resource
