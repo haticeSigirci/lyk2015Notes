@@ -9,10 +9,10 @@ Test.jsp  : create test data
 
 ###Our Java classes### 
 
-Todo.java        : Id, Counter, Name, Done, Desc,Date . 
-TodoServlet.java : We have two methods in this class; doGet and doPost(HTTP Methods). We send data for new.jsp in the doGet method. Our data were received from the form, is parsed and then new data was sent our todo object and this object is added our hashmap.
-Storage.java	 : This class was used like database. This class only keeps data inside a map. Also, this class is a static class in this way, our all class can use Storage class. Secondly, our change in Todo class is updated in Storage class. 
-TestServlet.java : We generate random data and add this data our list. In this way, we show our list.
-ListServlet.java : We view all data is received from the Storage class . Besides, data is updated from the id with a save button.
+- **Todo.java**        : Id, Counter, Name, Done, Desc,Date . 
+- **TodoServlet.java** : We have two methods in this class; doGet and doPost(HTTP Methods). We send data for new.jsp in the doGet method. Our data were received from the form, is parsed and then new data was sent our todo object and this object is added our hashmap.
+- **Storage.java**	 : This class was used like database. This class only keeps data inside a map. Also, this class is a static class in this way, our all class can use Storage class. Secondly, our change in Todo class is updated in Storage class. 
+- **TestServlet.java** : We generate random data and add this data our list. In this way, we show our list.
+- **ListServlet.java** : We view all data is received from the Storage class . Besides, data is updated from the id with a save button.
 
 Example java classes : https://github.com/haticeSigirci/sampleservlet-lyk2015
