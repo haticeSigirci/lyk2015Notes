@@ -1,18 +1,18 @@
 ##CleanCode##
 
-Classes should start with a capital letter
-Methods should start with a small letter
-Field names should start with a small letter
-Lists should use plural names
-Use meaningful names
-Methods should be small
-Methods should only do one thing
-Encapsulate boolean expressions
-Avoid unclear/ambiguous class name
-Encapsulate overly-complex code
-Avoid deep nesting
-Keep each step simple
-Replace constructors with creation methods
+* Classes should start with a capital letter
+* Methods should start with a small letter
+* Field names should start with a small letter
+* Lists should use plural names
+* Use meaningful names
+* Methods should be small
+* Methods should only do one thing
+* Encapsulate boolean expressions
+* Avoid unclear/ambiguous class name
+* Encapsulate overly-complex code
+* Avoid deep nesting
+* Keep each step simple
+* Replace constructors with creation methods
 
 ##Dependency Injection##
 

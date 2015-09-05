@@ -1,14 +1,14 @@
 ##CleanCode##
 
-1. Classes should start with a capital letter
-2. Methods should start with a small letter
-3. Field names should start with a small letter
-4. Lists should use plural names
-5. Use meaningful names
-6. Methods should be small
-7. Methods should only do one thing
-8. Encapsulate boolean expressions
-9. Avoid unclear/ambiguous class name
+Classes should start with a capital letter
+Methods should start with a small letter
+Field names should start with a small letter
+Lists should use plural names
+Use meaningful names
+Methods should be small
+Methods should only do one thing
+Encapsulate boolean expressions
+Avoid unclear/ambiguous class name
 Encapsulate overly-complex code
 Avoid deep nesting
 Keep each step simple
