@@ -1,10 +1,10 @@
 ###HTTP Status Code
 
-**HTTP 1xx** -> Informational
-**HTTP 2xx** -> Success
-**HTTP 3xx** -> Redirection
-**HTTP 4xx** -> Client Error
-**HTTP 5xx** -> Server Error 
+- **HTTP 1xx** -> Informational
+- **HTTP 2xx** -> Success
+- **HTTP 3xx** -> Redirection
+- **HTTP 4xx** -> Client Error
+- **HTTP 5xx** -> Server Error 
 
 - Integer k → creates an object , assigns null as default
 - int k → primitive data type , default value is zero
