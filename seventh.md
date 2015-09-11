@@ -1,13 +1,13 @@
 
 ###Html Tags
 
-<main>     → main content of document
+main     → main content of document
 
-<section> → sections in a document such as chapters,headers,footers.
+section  → sections in a document such as chapters,headers,footers.
 
-<header>   → heading elements,autorship information, etc.
+header   → heading elements,autorship information, etc.
 
-<footer>   → contain information about about its container , element
+footer   → contain information about about its container , element
 
 **HTTP Verb** 	**CRUD** 
 ------------------------
